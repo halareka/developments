@@ -143,6 +143,8 @@ function movement(): void {
     getAnotherSide();
   }, TIME);
 }
+
 movement();
 getEat();
+
 export { right, left, down, up };

@@ -15,5 +15,4 @@ function delHeadClass(head: string): void {
     }
   });
 }
-
 export { setHeadClass, delHeadClass };

@@ -1,5 +1,4 @@
 import { right, left, up, down } from "./movement";
-
 interface Snake {
   right: () => void;
   left: () => void;

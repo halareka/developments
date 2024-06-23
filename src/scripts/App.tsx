@@ -17,5 +17,4 @@ function App() {
   const elements = getElementArray();
   return <>{elements}</>;
 }
-
 export default App;
